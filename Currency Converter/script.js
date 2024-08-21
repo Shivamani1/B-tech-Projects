@@ -1,4 +1,4 @@
-const URL="https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
+const URL="https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/2024-02-26/currencies/eur.json";
 const selects=document.querySelectorAll("select");
 const from=document.querySelector(".subsub1 select");
 const to=document.querySelector(".subsub2 select");
